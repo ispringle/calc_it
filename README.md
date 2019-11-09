@@ -1,4 +1,5 @@
-![](https://github.com/learning2rust/calc_it/workflows/Continuous%20integration/badge.svg)
+![](https://github.com/learning2rust/calc_it/workflows/Builds/badge.svg)
+![](https://github.com/learning2rust/calc_it/workflows/Lints/badge.svg)
 
 # calc_it
 A calculator in Rust
