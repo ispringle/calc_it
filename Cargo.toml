@@ -1,5 +1,5 @@
 [package]
-name = "calc"
+name = "calc_it"
 description = "A calculator"
 authors = ["Ian Pringle <ipringle2@liberty.edu>"]
 version = "0.1.0"
