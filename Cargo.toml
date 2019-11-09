@@ -4,9 +4,9 @@ description = "A calculator"
 authors = ["Ian Pringle <ipringle2@liberty.edu>"]
 version = "0.1.0"
 license = "GPL-3.0"
-homepage = "https://github.com/learning2rust/calc"
-repository = "https://github.com/learning2rust/calc"
-documentation = "https://github.com/learning2rust/calc"
+homepage = "https://github.com/learning2rust/calc_it"
+repository = "https://github.com/learning2rust/calc_it"
+documentation = "https://github.com/learning2rust/calc_it"
 edition = "2018"
 
 [dependencies]
