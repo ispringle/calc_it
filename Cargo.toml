@@ -1,10 +1,13 @@
 [package]
 name = "calc"
-version = "0.1.0"
+description = "A calculator"
 authors = ["Ian Pringle <ipringle2@liberty.edu>"]
+version = "0.1.0"
+license = "GPL-3.0"
+homepage = "https://github.com/learning2rust/calc"
+repository = "https://github.com/learning2rust/calc"
+documentation = "https://github.com/learning2rust/calc"
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 clap = "2.33"
